@@ -11,7 +11,3 @@ Enthusiast of the best web development technologies.
 Walking the path of continuous learning.
 
 "Plans fail when there is no consultation, But there is accomplishment through many advisers."
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3ojr&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake gif](https://github.com/L3oJr/L3oJr/blob/output/github-contribution-grid-snake.svg)
