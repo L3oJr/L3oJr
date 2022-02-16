@@ -12,8 +12,6 @@ Walking the path of continuous learning.
 
 "Plans fail when there is no consultation, But there is accomplishment through many advisers."
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3oJr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![L3oJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3oJr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3oJr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/L3oJr/L3oJr/blob/output/github-contribution-grid-snake.svg)
