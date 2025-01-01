@@ -1,27 +1,26 @@
-# Leonardo Jr
-
-Software Developer at Develop4Us.
+# Hi there, I'm Leonardo!
+Full-stack Software Developer
 
 [![Gmail Badge](https://img.shields.io/badge/-leojuniortj@gmail.com-0a426d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leojuniortj@gmail.com)](mailto:leojuniortj@gmail.com)
 
-Enthusiast of the best web development technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=L3oJr&color=blue)
 
-Walking the path of continuous learning.
+## 📈 GitHub Stats
 
-"Plans fail when there is no consultation, But there is accomplishment through many advisers."
+![L3oJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=L3oJr&show_icons=true&theme=radical)
 
-## Technologies...
-<div>
-  <img height=40px src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" />
-  <img height=40px src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
-  <img height=40px src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
-  <img height=40px src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" />
-</div>
+## 🏆 Top Languages
 
-### ... also
-<div>
-  <img height=40px src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
-  <img height=40px src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />
-  <img height=40px src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
-  <img height=40px src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3oJr&layout=compact&theme=radical)
+
+## 🛠️ Technologies & Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
